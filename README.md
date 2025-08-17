@@ -1,9 +1,9 @@
 ## Hi there, I'm Marian 👋
 ## About me
-I am a data Engineer with passion in transforming raw data into actionable insight using Excel, Python, SQL, Power BI, Tableau and currently learning C# Programming language 
+I am a data Engineer, with passion in transforming raw data into actionable insight using Excel, Python, SQL, Power BI, Tableau and currently learning C# Programming language 
 
 ## About Me
-👨‍💻 Fun fact: I’m a graduate 10alytics & Altschool Africa where I studied Data Engineering & Product Management respectively, with a Chemical & Petroluem Engineering background, I thrive on converting complex datasets into meaningful insights using Excel, SQL, Python, DBT, and Power BI.
+👨‍💻 Fun fact: A graduate of 10alytics & Altschool Africa where I studied Data Engineering & Product Management respectively, with a Chemical & Petroluem Engineering background, I thrive on converting complex datasets into meaningful insights using Excel, SQL, Python, DBT, and Power BI.
 
 🌱 I'm currently comfortable with: Apache Airflow for workflow orchestration, Docker for containerization, and cloud-based data pipelines (e.g.Azure, AWS & GCP). I’m also exploring advanced DBT techniques for data transformation and Astro. Currently am working on Data Science & M/L application on Fluids Recovery
  and looking to collaborate on delivering impactful projects
