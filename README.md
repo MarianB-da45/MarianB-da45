@@ -14,7 +14,7 @@ I am a data Engineer, with passion in transforming raw data into actionable insi
 
 💼 Job interests: Data Engineer, Data Analyst, BI Developer, Cloud practitioner or roles involving data-driven process optimization.
 
-❤ My primary goals: Delivering impactful data projects, actively contributing to the data community, and collaborating with data enthusiasts to innovate, drawing from my c engineering perspective.
+❤ My primary goals: Delivering impactful data projects, actively contributing to the data community, and collaborating with data enthusiasts to innovate, drawing from my engineering perspective.
 
 
 
